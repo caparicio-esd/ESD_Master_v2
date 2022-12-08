@@ -4,7 +4,7 @@ module.exports = {
     "./components/**/*.{js,vue,ts}",
     "./layouts/**/*.vue",
     "./pages/**/*.vue",
-    "./plugins/**/*.{js,ts}",
+    "./plugins/**/*.{js,ts}"
   ],
   theme: {
     fontFamily: {
@@ -17,7 +17,7 @@ module.exports = {
       colors: {
         primary: "#47ad7a"
       }
-    },
+    }
   },
-  plugins: [],
+  plugins: []
 }

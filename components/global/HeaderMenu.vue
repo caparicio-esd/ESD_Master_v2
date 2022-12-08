@@ -1,9 +1,15 @@
 <template>
-  <nav class="header_menu" :class="{global_context: props.logoColor == 'green'}">
+  <nav
+    class="header_menu"
+    :class="{ global_context: props.logoColor == 'green' }"
+  >
     <div class="header_menu_holder">
       <picture class="logo">
         <a href="/">
-          <img :src="`/images/logo_${props.logoColor}.svg`" :alt="props.logoColor">
+          <img
+            :src="`/images/logo_${props.logoColor}.svg`"
+            :alt="props.logoColor"
+          />
         </a>
       </picture>
       <ul class="menu">
@@ -15,29 +21,19 @@
           <a href="#">Inicio</a>
           <ul class="submenu">
             <li class="submenu_item">
-              <a href="#">
-                Objetivos del Máster
-              </a>
+              <a href="#"> Objetivos del Máster </a>
             </li>
             <li class="submenu_item">
-              <a href="#">
-                Perfiles y salidas laborales
-              </a>
+              <a href="#"> Perfiles y salidas laborales </a>
             </li>
             <li class="submenu_item">
-              <a href="#">
-                Asignaturas
-              </a>
+              <a href="#"> Asignaturas </a>
             </li>
             <li class="submenu_item">
-              <a href="#">
-                Profesores
-              </a>
+              <a href="#"> Profesores </a>
             </li>
             <li class="submenu_item">
-              <a href="#">
-                Empresas y prácticas
-              </a>
+              <a href="#"> Empresas y prácticas </a>
             </li>
           </ul>
         </li>
@@ -52,7 +48,6 @@
       </ul>
     </div>
   </nav>
-
 </template>
 
 <script setup lang="ts">

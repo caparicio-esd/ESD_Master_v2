@@ -1,16 +1,12 @@
 <template>
-    <div>
-        hola...
-    </div>
+  <div>hola...</div>
 </template>
 
 <script setup lang="ts">
 definePageMeta({
-    layout: "home",
-    scrollToTop: true
+  layout: "home",
+  scrollToTop: true
 })
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

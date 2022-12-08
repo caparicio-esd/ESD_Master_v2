@@ -1,9 +1,9 @@
 <template>
   <header class="header">
     <section class="header_home">
-      <HeaderMenu logoColor="white"  />
+      <HeaderMenu logoColor="white" />
       <picture class="header_home_picture">
-        <img src="/images/slider_mdi.png" alt="slider_mdi">
+        <img src="/images/slider_mdi.png" alt="slider_mdi" />
       </picture>
       <div class="header_home_content">
         <h1>Máster en Diseño Interactivo</h1>
@@ -14,9 +14,7 @@
   </header>
 </template>
 
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
 
 <style scoped lang="sass">
 .header_home
@@ -38,5 +36,4 @@
             @apply text-2xl
         h3
             @apply text-lg
-
 </style>
