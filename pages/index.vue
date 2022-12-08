@@ -1,5 +1,7 @@
 <template>
-  <div>hola...</div>
+  <div class="home">
+    <HomeFeatures />
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -9,4 +11,4 @@ definePageMeta({
 })
 </script>
 
-<style scoped></style>
+<style scoped lang="sass"></style>

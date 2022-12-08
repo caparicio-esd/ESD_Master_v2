@@ -5,7 +5,9 @@
         <HeaderMenu />
       </div>
       <main>
-        <slot />
+        <div class="main_content">
+          <slot />
+        </div>
       </main>
       <footer>
         <Footer />
@@ -19,9 +21,12 @@
 <style scoped lang="sass">
 .layout
   @apply grid grid-cols-[auto_1fr] grid-rows-[1fr_auto]
-  @apply min-h-screen
+  @apply min-h-screen border-t-4 border-primary
   .header_wrapper
     @apply contents
+  main
+    .main_content
+      @apply container mx-auto
   footer
     @apply col-span-2
 </style>

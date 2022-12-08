@@ -1,7 +1,7 @@
 <template>
   <nav
     class="header_menu"
-    :class="{ global_context: props.logoColor == 'green' }"
+    :class="{ global_context: props.context == 'global' }"
   >
     <div class="header_menu_holder">
       <picture class="logo">
@@ -53,9 +53,11 @@
 <script setup lang="ts">
 interface Props {
   logoColor?: "white" | "green"
+  context?: "home" | "global"
 }
 const props = withDefaults(defineProps<Props>(), {
-  logoColor: "green"
+  logoColor: "green",
+  context: "global"
 })
 </script>
 
