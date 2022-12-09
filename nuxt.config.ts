@@ -8,12 +8,12 @@ export default defineNuxtConfig({
       autoprefixer: {}
     }
   },
-  css: ["@/assets/css/main.sass"], 
+  css: ["@/assets/css/main.sass"],
   runtimeConfig: {
-    master: "mdi" as MasterType, 
+    master: "mdi" as MasterType,
     masterData: {
       mdi: {
-        theme: "", 
+        theme: "",
         root: "mdi"
       }
     }

@@ -27,7 +27,7 @@
     @apply contents
   main
     .main_content
-     
+
   footer
     @apply col-span-2
 </style>

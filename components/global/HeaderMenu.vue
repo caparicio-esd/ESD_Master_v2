@@ -52,11 +52,11 @@
 
 <script setup lang="ts">
 interface Props {
-  logoColor?: "white" | "green", 
+  logoColor?: "white" | "green"
   context?: "home" | "global"
 }
 const props = withDefaults(defineProps<Props>(), {
-  logoColor: "green", 
+  logoColor: "green",
   context: "global"
 })
 </script>
