@@ -27,7 +27,7 @@
     @apply contents
   main
     .main_content
-      @apply max-w-[1080px] w-[90%] mx-auto
+     
   footer
     @apply col-span-2
 </style>

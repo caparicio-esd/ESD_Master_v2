@@ -15,7 +15,7 @@ module.exports = {
         netto: ["'NettoOT'", "sans-serif"]
       },
       colors: {
-        primary: "#47ad7a"
+        primary: "#25ac7a"
       }
     }
   },

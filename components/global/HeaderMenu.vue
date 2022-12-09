@@ -52,11 +52,11 @@
 
 <script setup lang="ts">
 interface Props {
-  logoColor?: "white" | "green"
+  logoColor?: "white" | "green", 
   context?: "home" | "global"
 }
 const props = withDefaults(defineProps<Props>(), {
-  logoColor: "green",
+  logoColor: "green", 
   context: "global"
 })
 </script>
@@ -69,7 +69,7 @@ const props = withDefaults(defineProps<Props>(), {
     &.global_context
       @apply border-black border-opacity-10
     .header_menu_holder
-      @apply w-[250px] sticky top-0 left-0
+      @apply w-[250px] sticky top-6 left-0
       .logo
           @apply flex
       .menu

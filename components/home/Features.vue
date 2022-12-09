@@ -1,5 +1,5 @@
 <template>
-  <section class="features">
+  <section class="features container_center">
     <article class="feature" v-for="(feature, i) in features" :key="i">
       <picture class="feature_pic">
         <img :src="feature.picture" :alt="feature.title" />

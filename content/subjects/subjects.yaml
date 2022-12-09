@@ -1,0 +1,274 @@
+body: 
+  - 
+    name: Interfaces Gráficas de Usuario
+    docent: Carlos Aparicio
+    type: Tecnológicas
+    semester: 2
+    ects: 4
+    sylabus: https://guias.esdmadrid.es/interfaces-graficas-usuario
+    description: >
+      Esta asignatura está orientada a trabajar aspectos relacionados con Diseño 
+      Gráfico en Interfaces Gráficas de Usuario, conocido a nivel internacional 
+      como UI-Design. En esta asignatura vamos a abordar aspectos ténicos, 
+      metológicos y creativos para la generación de interfaces, así como para 
+      la inclusión de manejo de sistemas de componentes, branding, tipografía, ect..
+      
+      El objetivo básico es que el alumno sea capaz de genera un Design System 
+      profesional que pueda ser la base de un diseño estratégico con componentes 
+      reusables y escalables. Vamos a ver cómo se puede generar un sistema de 
+      este tipo desde el Diseño y la Implementación en HTML y CSS.
+
+  - 
+    name: Computación física	
+    docent: Julián Pérez
+    type: Tecnológicas
+    semester: 2
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/computacion-fisica
+    description: >
+      La computación física se refiere al diseño de objetos y espacios que 
+      reaccionan a cambios en el entorno y responden a este.
+      Se basa en la construcción de dispositivos que incluyen microcontroladores, 
+      sensores y actuadores y que pueden tener capacidades de comunicación con la red u otros dispositivos.
+      
+      Como resultado obtendremos sistemas interactivos físicos que mediante 
+      el uso de software y hardware pueden detectar y responder señales procedentes del mundo analógico.
+      En un sentido amplio, la computación física supone el marco creativo 
+      para la comprensión de la relación de los seres humanos y el mundo digital.
+
+  - 
+    name: Programación para diseñadores y artistas visuales	
+    docent: Carlos Aparicio
+    type: Tecnológicas
+    semester: 1
+    ects: 4
+    sylabus: https://guias.esdmadrid.es/programacion-disenadores-artistas-visuales
+    description: >
+      Los conceptos de programación en el entorno de las artes visuales 
+      pueden ser utilizados por estudiantes, artistas, diseñadores, arquitectos y todo 
+      aquel que quiera trabajar con la imagen, la animación y la interactividad.
+      
+      Existe una demanda creciente entre los diseñadores y artistas por 
+      aprender programación para llenar la brecha creciente entre sus ideas y la posibilidades 
+      que ofrecen las aplicaciones comerciales.
+      
+      Esta asignatura introducirá al alumno en la sintaxis y los conceptos 
+      de software que incluyen variables, funciones y programación orientada a objetos para el 
+      tratamiento de la imagen, la animación, el vídeo, la tipografía, el sonido.
+      
+      Los lenguajes de programación sirven además para explorar las capacidades 
+      estéticas del código; los algoritmos y sus aplicaciones en la creación de arte visual dinámico, 
+      generativo e interactivo.
+
+  - 
+    name: Lenguajes de Programación	
+    docent: Carlos Aparicio
+    type: Tecnológicas
+    semester: 1
+    ects: 6
+    sylabus: https://guias.esdmadrid.es/lenguajes-programacion
+    description: >
+      En esta asignatura se estudiarán los conceptos generales de los lenguajes de 
+      programación y las características y propiedades de los distintos tipos 
+      empleados en la creación de aplicaciones, así como el uso de herramientas 
+      generadoras para prototipos de Diseño Interactivo.
+      
+      Se darán a conocer las características de los distintos paradigmas de 
+      programación, sus modos de depuración y pruebas y sus diferentes 
+      semánticas de forma que el alumno sepa elegir el lenguaje y las herramientas 
+      más adecuadas para cada uno de los proyectos.
+
+  - 
+    name: Interfaces Gráficas de Usuario
+    docent: Carlos Aparicio
+    type: Tecnológicas
+    semester: 2
+    ects: 4
+    sylabus: https://guias.esdmadrid.es/interfaces-graficas-usuario
+    description: >
+      Esta asignatura está orientada a trabajar aspectos relacionados con Diseño 
+      Gráfico en Interfaces Gráficas de Usuario, conocido a nivel internacional 
+      como UI-Design. En esta asignatura vamos a abordar aspectos ténicos, 
+      metológicos y creativos para la generación de interfaces, así como para 
+      la inclusión de manejo de sistemas de componentes, branding, tipografía, ect..
+      
+      El objetivo básico es que el alumno sea capaz de genera un Design System 
+      profesional que pueda ser la base de un diseño estratégico con componentes 
+      reusables y escalables. Vamos a ver cómo se puede generar un sistema de 
+      este tipo desde el Diseño y la Implementación en HTML y CSS.
+
+  - 
+    name: Interacción y Lenguaje
+    docent: Iván Huelves
+    type: Metodológicas
+    semester: 2
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/interaccion-lenguaje
+    description: >
+      En esta asignatura se estudiarán las raíces conceptuales del Media Art, su evolución, 
+      sus contribuciones estéticas, su visión crítica y política. Se examinarán sus producciones 
+      que apropiándose de las características más específicas de los nuevos medios las exploran 
+      hasta sus extremos teóricos o sensibles, creando los signos de un nuevo lenguaje.
+      
+      El Diseño y el Arte se ven inmersos en estas nuevas tecnologías y su adopción conlleva 
+      un cambio de paradigmas tanto más pronunciado cuanto más distintas son estas nuevas 
+      técnicas de sus predecesoras. Se analizarán el diseño y el Arte Interactivo, su lenguaje y su código.
+
+  - 
+    name: Interfaces y Cultura. Estrategias de Innovación e Investigación
+    docent: Óscar Muñoz
+    type: Metodológicas
+    semester: 1
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/interface-cultura-estrategias-innovacion-e-investigacion
+    description: >
+      Esta asignatura proporciona los fundamentos, los patrones y las herramientas 
+      interpretativas para gestionar y mejorar el diseño de la interacción con el 
+      fin de encontrar la mejor solución de diseño en los procesos de innovación y 
+      transformación tecnológica.
+
+      El diseñador actuará como analista capaz de interpretar demandas y tendencias y 
+      comprender, por tanto, su constante evolución. Los estudiantes han de convertirse 
+      en generadores activos e investigadores de los diseños de interfaz.
+
+      Estos nuevos modos, o modos emergentes de interacción, ofrecen un punto de partida 
+      para explorar soluciones no convencionales, nuevos modelos de comunicación, y 
+      permiten profundizar en los paradigmas de interacción basados en la síntesis 
+      de diferentes códigos y en el uso integrado de los medios digitales.
+
+
+      Desde el conocimiento del medio convencional, se promueve el uso creativo 
+      y la invención de soluciones innovadoras.
+
+  - 
+    name: Experiencia de Usuario
+    docent: Lourdes Marco
+    type: Metodológicas
+    semester: 1
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/experiencia-usuario
+    description: >
+      El proceso interactivo sólo es posible si el receptor comprende los contenidos 
+      del proceso y las acciones que constituyen la interacción.
+      
+      La psicología aporta conocimientos y teorías acerca de como los sujetos se 
+      comportan, procesan la información y actúan y también proporciona metodologías 
+      y herramientas para evaluar y determinar el grado de satisfacción de nuestros diseños.
+      
+      El objetivo es desarrollar la capacidad para descifrar los comportamientos 
+      de los usuarios, sus necesidades y expectativas y, de esa forma, explorar las 
+      posibilidades del diseño en su relación con la interacción y la comunicación humana.
+
+  - 
+    name: IxD Proyectos de Diseño Interactivo I
+    docent: Luis Conde
+    type: Proyectuales
+    semester: 1
+    ects: 8
+    sylabus: https://guias.esdmadrid.es/proyectos-diseno-interactivo-i
+    description: >
+      El objetivo de esta asignatura es combinar la interacción con la información, 
+      usabilidad y estrategia de un proyecto interactivo mediante el diseño de su 
+      interfaz gráfica. Se incide en aspectos fundamentales de la comunicación visual 
+      y se introduce al estudiante en la inclusión de elementos multimedia y multimedia 
+      dinámica y el diseño para distintos entornos.
+      
+      Su objetivo es conocer las hipótesis futuras aplicadas al diseño de interacción, 
+      desde la perspectiva humana y visual. Simultáneamente a las enseñanzas teóricas 
+      se realizaran competencias práctica operativas para la construcción de prototipos interactivos
+
+  - 
+    name: IxD Proyectos de Diseño Interactivo II
+    docent: Luis Conde
+    type: Proyectuales
+    semester: 2
+    ects: 8
+    sylabus: https://guias.esdmadrid.es/proyectos-diseno-interactivo-ii
+    description: >
+      Se analizarán las tecnologías de software y hardware, que constituyen 
+      la plataforma operativa de los entornos y soluciones interactivas, 
+      interfaces avanzadas entre personas y artefactos.
+      
+      Ello supone conocer las hipótesis futuras de diseño de interacción, 
+      su potencial, viabilidad y escalabilidad. Simultáneamente a las enseñanzas teóricas 
+      se realizaran prácticas operativas para la construcción de prototipos e instalaciones interactivas.
+
+  - 
+    name: Narrativa Interactiva	
+    docent: Santiago Liébana
+    type: Optativas
+    semester: 1
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/narrativa-interactiva
+    description: >
+      Explora las técnicas utilizadas en la creación de modos de comunicación basados 
+      en la ficción interactiva, examinando las conexiones entre la tecnología y la 
+      experiencia narrativa, así como su significado en múltiples medios de comunicación.
+      
+      La asignatura va a desarrollar un marco teórico para comprender los principales 
+      conceptos y prácticas de la narración transmedia que incluyen los medios de la 
+      serialidad como el libro, el cine y televisión, los cómics y las novelas 
+      gráficas, el entretenimiento interactivo de los juegos e Internet y los medios 
+      de comunicación Interactivos.
+
+  - 
+    name: 3D Modelado, Materiales e iluminación
+    docent: Jose María Peña
+    type: Optativas
+    semester: 1
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/3d-modelado-materiales-e-iluminacion
+    description: >
+      Las imágenes generadas en 3D, son recursos necesarios para casi todos 
+      los proyectos de diseño y de especial importancia en entornos virtuales 
+      interactivos y de realidad aumentada.
+      
+      Es por esto necesario conocer los entornos del diseño y modelado de 
+      objetos 3D, la aplicación de materiales en un objeto y la iluminación 
+      de la escena, así como, las posibilidades de uso en los diferentes 
+      proyectos de diseño interactivo.
+
+  - 
+    name: Animación 2D
+    docent: Gonzalo Cordero
+    type: Optativas
+    semester: 1
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/animacion-2d
+    description: >
+      La animación 2D es una mezcla entre el audiovisual, el arte dramático, el 
+      dibujo, la pintura, la música, la narrativa y la tecnología.
+      
+      En esta asignatura se parte del conocimiento de los principios de la animación 
+      tradicional, de la creación de personajes, de su dramatización y del movimiento. 
+      Para su realización es necesario el aprendizaje de las técnicas y las 
+      aplicaciones informáticas propias de este medio.
+
+  - 
+    name: Visualización de Información
+    docent: Julián Pérez	
+    type: Optativas
+    semester: 1
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/visualizacion-informacion
+    description: >
+      Esta asignatura explora los modos de visualización de la información 
+      partiendo del contenido almacenado en una estructura de datos complejos.
+      
+      El reto es la integración de contenido textual, imágenes, sonido e 
+      imagen en movimiento al servicio de la comunicación de información. 
+      El alumno debe comprender las diferencias entre gráficos estáticos basados 
+      en papel y los métodos dinámicos e interactivos basados en las tecnologías.
+
+  - 
+    name: Realidad Aumentada
+    docent: Jose María Peña
+    type: Optativas
+    semester: 1
+    ects: 3
+    sylabus: https://guias.esdmadrid.es/realidad-aumentada
+    description: >
+      Esta asignatura proporcionará al estudiante el conocimiento y las habilidades 
+      técnicas para introducirse en el desarrollo de aplicaciones en el campo emergente 
+      de las tecnologías de realidad virtual, que permiten la unión de información 
+      virtual en escenarios reales.

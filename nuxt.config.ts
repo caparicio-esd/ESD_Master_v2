@@ -1,6 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import NuxtErrorBoundary from "nuxt"
-
+export type MasterType = "mdi" | "mdec"
 export default defineNuxtConfig({
   modules: ["@nuxt/content"],
   postcss: {
@@ -9,6 +8,14 @@ export default defineNuxtConfig({
       autoprefixer: {}
     }
   },
-
-  css: ["@/assets/css/main.sass"]
+  css: ["@/assets/css/main.sass"], 
+  runtimeConfig: {
+    master: "mdi" as MasterType, 
+    masterData: {
+      mdi: {
+        theme: "", 
+        root: "mdi"
+      }
+    }
+  }
 })

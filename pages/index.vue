@@ -1,6 +1,10 @@
 <template>
   <div class="home">
     <HomeFeatures />
+    <HomePresentation />
+    <HomeSubjects />
+    <HomeDocents />
+    <HomeCompanies />
   </div>
 </template>
 
