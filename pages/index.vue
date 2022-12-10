@@ -13,6 +13,9 @@ definePageMeta({
   layout: "home",
   scrollToTop: true
 })
+useHead({
+  title: "ESD - Máster en Diseño Interactivo"
+})
 </script>
 
 <style scoped lang="sass"></style>

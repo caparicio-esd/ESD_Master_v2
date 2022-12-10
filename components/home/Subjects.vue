@@ -36,7 +36,7 @@
 
 <script setup lang="ts">
 const props = withDefaults(
-  defineProps<{ title: string; avoidedSubjects: string[] }>(),
+  defineProps<{ title?: string; avoidedSubjects?: string[] }>(),
   {
     title: "Asignaturas",
     // @ts-ignore
@@ -45,7 +45,7 @@ const props = withDefaults(
 )
 const { body: subjects_ } = await queryContent("subjects/subjects").findOne()
 const subjects = reactive(
-  subjects_.filter((sub: any) => !props.avoidedSubjects.includes(sub.name))
+  subjects_.filter((sub: any) => !props.avoidedSubjects!.includes(sub.name))
 )
 const slugify = utilsSlugify
 </script>

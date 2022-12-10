@@ -1,5 +1,4 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-export type MasterType = "mdi" | "mdec"
 export default defineNuxtConfig({
   modules: ["@nuxt/content"],
   postcss: {
@@ -8,14 +7,13 @@ export default defineNuxtConfig({
       autoprefixer: {}
     }
   },
-  css: ["@/assets/css/main.sass"],
-  runtimeConfig: {
-    master: "mdi" as MasterType,
-    masterData: {
-      mdi: {
-        theme: "",
-        root: "mdi"
-      }
+  app: {
+    head: {
+      htmlAttrs: {
+        lang: "es-ES"
+      },
+      link: [{ rel: "icon", type: "image/png", href: "/favicon.png" }]
     }
-  }
+  },
+  css: ["@/assets/css/main.sass"]
 })
